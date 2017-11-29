@@ -4,6 +4,7 @@ Implementing best practices in Security and Testing on different cloud providers
 
 ## Architecture
 
+TBC
 
 ## Tools 
 
@@ -19,6 +20,8 @@ Implementing best practices in Security and Testing on different cloud providers
 ## Hubcommnader
 
 [Hubcommander](https://github.com/Netflix/hubcommander) is a bot that creates a simple way to perform privileged GitHub organization management tasks without granting administrative or owner privileges to your GitHub organization members.
+
+
 
 ## License
 
